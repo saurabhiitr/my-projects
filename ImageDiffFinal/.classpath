@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/org.apache.commons.io.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV 2.9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/sun-jai_core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/jai-1_1_2_01/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/sun-jai_codec.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/jai-1_1_2_01/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/PDFRenderer-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/ghost4j-1.0.0.jar" sourcepath="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/ghost4j-1.0.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Saurabh/Desktop/jar%20files/ghost4j-1.0.0/ghost4j-1.0.0-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/win32-x86-64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/jna-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Desktop/jar files/ghost4j-1.0.0/lib/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
